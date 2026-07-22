@@ -1,2 +1,26 @@
-# student-assistant
-A menu-driven Python application that helps students with academic calculations like percentage, attendance, CGPA, and basic arithmetic.
+# 🎓 Smart Student Assistant
+
+A menu-driven Python application designed to help students with common academic calculations.
+
+## Features
+
+✅ Calculator
+
+✅ Percentage Calculator
+
+✅ Attendance Calculator
+
+✅ CGPA Calculator
+
+## Built With
+
+- Python
+
+## Future Improvements
+
+- Study Planner
+- To-Do List
+- AI Study Assistant
+- Notes Manager
+
+Developed by Sugandhi
